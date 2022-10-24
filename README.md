@@ -1,2 +1,2 @@
-# xinranshi-librarycodes.github.io
-week6codes
+# XinranShi-Week6codes
+ library
